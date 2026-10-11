@@ -10,8 +10,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=VikramS04&label=Profile+Views&color=1e3a8a&style=for-the-badge&labelColor=0f172a" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/VikramS04?label=Followers&style=for-the-badge&color=1e3a8a&labelColor=0f172a&logo=github" alt="Followers" />
 <img src="https://img.shields.io/badge/🟢_Open_to-SDE_Roles_%26_Internships-1e3a8a?style=for-the-badge&labelColor=0f172a" alt="Open to work" />
 
 <br/><br/>
