@@ -2,11 +2,31 @@
   <img src="assets/banner.svg" alt="Vikram Saini, Full-Stack Developer" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://vikramsaini.xyz"><img src="https://img.shields.io/badge/Portfolio-vikramsaini.xyz-a3e635?style=for-the-badge&labelColor=18181b&logo=googlechrome&logoColor=a3e635" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/vikramsaini04/"><img src="https://img.shields.io/badge/LinkedIn-vikramsaini04-a3e635?style=for-the-badge&labelColor=18181b&logo=linkedin&logoColor=a3e635" alt="LinkedIn" /></a>
-  <a href="mailto:vikramsaini7723@gmail.com"><img src="https://img.shields.io/badge/Email-vikramsaini7723@gmail.com-a3e635?style=for-the-badge&labelColor=18181b&logo=gmail&logoColor=a3e635" alt="Email" /></a>
-</p>
+<div align="center">
+
+<a href="https://vikramsaini.xyz">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=%24+whoami;Vikram+Saini+%E2%80%94+Full-Stack+Developer;%24+ls+skills%2F;React+%7C+Node+%7C+Express+%7C+MongoDB+%7C+MySQL;%24+cat+status.txt;Open+to+SDE+roles+%26+internships+%F0%9F%9A%80;%24+git+commit+-m+%22ship+it%22" alt="Typing intro" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=VikramS04&label=Profile+Views&color=1e3a8a&style=for-the-badge&labelColor=0f172a" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/VikramS04?label=Followers&style=for-the-badge&color=1e3a8a&labelColor=0f172a&logo=github" alt="Followers" />
+<img src="https://img.shields.io/badge/🟢_Open_to-SDE_Roles_%26_Internships-1e3a8a?style=for-the-badge&labelColor=0f172a" alt="Open to work" />
+
+<br/><br/>
+
+<a href="#about">About</a> ·
+<a href="#experience">Experience</a> ·
+<a href="#projects">Projects</a> ·
+<a href="#tech-stack">Tech Stack</a> ·
+<a href="#certifications--activities">Certifications</a> ·
+<a href="#github-at-a-glance">GitHub</a> ·
+<a href="#lets-connect">Connect</a>
+
+</div>
+
+<br/>
 
 <p align="center">
   <img src="assets/impact.svg" alt="600+ users, 100% workflows digitized, under 2 hours processing time, 300+ DSA questions solved" width="100%" />
@@ -14,38 +34,47 @@
 
 ## About
 
-Full-stack developer with hands-on experience building web applications with **React.js, Node.js, Express.js and MongoDB**. I have a strong grounding in the MERN stack and REST APIs from internships and real-world projects, and I'm looking to contribute to scalable software products while sharpening my engineering and problem-solving skills.
+> 🧠 I'm a **full-stack developer** who builds clean, working web products with **React.js, Node.js, Express.js and MongoDB**. I have a strong grounding in the MERN stack and REST APIs from internships and real-world projects, and I want to contribute to scalable software while sharpening my engineering and problem-solving skills.
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Right now**<br/>
-Interning as an Advance Software Engineer at Grids Apps LLC, building a full-stack Dental Center Management System.
+🔭 **Currently building**<br/>
+A full-stack Dental Center Management System at Grids Apps LLC: CRM workflows and appointment scheduling
+
+💻 **Full-stack craft**<br/>
+MERN apps with JWT authentication, protected routes and REST APIs
+
+🤝 **Open to**<br/>
+SDE roles, internships and collaborations on scalable products
 
 </td>
 <td width="50%" valign="top">
 
-**Studying**<br/>
-B.Tech in Computer Science Engineering (AI/ML) at JECRC University, Jaipur. CGPA 8.13.
+🎓 **Studying**<br/>
+B.Tech in Computer Science Engineering (AI/ML) at JECRC University, CGPA 8.13
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+⚔️ **Sharpening**<br/>
+Data Structures & Algorithms, with 300+ questions solved
 
-**Leading**<br/>
-Head of Information Technology & Data Analytics at IAESTE India LC JECRC, with a 7-member team.
-
-</td>
-<td width="50%" valign="top">
-
-**Looking for**<br/>
-SDE roles and internships where I can work on scalable products.
+🧭 **Previously led**<br/>
+A 7-member IT & Data Analytics team as Head of the department at IAESTE India LC JECRC
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/📍_Based_in-Jaipur,_India-38bdf8?style=flat-square&labelColor=0f172a" alt="Based in Jaipur" />
+<img src="https://img.shields.io/badge/🎯_Focus-Full--Stack_(MERN)-818cf8?style=flat-square&labelColor=0f172a" alt="Focus" />
+<img src="https://img.shields.io/badge/🎓_CGPA-8.13-38bdf8?style=flat-square&labelColor=0f172a" alt="CGPA" />
+<img src="https://img.shields.io/badge/🧩_DSA-300%2B_solved-818cf8?style=flat-square&labelColor=0f172a" alt="DSA" />
+
+<p><i>💡 Building clean, scalable web products, one commit at a time.</i></p>
+
+</div>
 
 ## Experience
 
@@ -89,7 +118,7 @@ Worked on analytical and optimization projects across multiple domains: data pro
 <tr>
 <td width="50%" valign="top">
 
-### TrackIt
+### 💸 TrackIt
 <sub><b>SMART EXPENSE TRACKER · MAR — APR 2026</b></sub>
 
 A full-stack expense tracking platform with JWT authentication, protected routes, RESTful APIs and analytics dashboards for monitoring spending.
@@ -102,7 +131,7 @@ A full-stack expense tracking platform with JWT authentication, protected routes
 </td>
 <td width="50%" valign="top">
 
-### Krishi AI
+### 🌾 Krishi AI
 <sub><b>FARMING SUPPORT APPLICATION · JUN — JUL 2025</b></sub>
 
 A full-stack agriculture support platform that combines machine learning models with backend APIs and a responsive interface to deliver real-time insights and recommendations.
@@ -120,28 +149,66 @@ A full-stack agriculture support platform that combines machine learning models 
 
 <table>
 <tr>
-<td width="170"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=cpp,js,py,java&theme=dark" alt="C++, JavaScript, Python, Java" /></td>
+<th width="160">Category</th>
+<th>Tech Stack</th>
+</tr>
+<tr>
+<td><b>Languages</b></td>
+<td>
+
+![C++](https://img.shields.io/badge/C++-1e3a8a?style=for-the-badge&logo=cplusplus&logoColor=93c5fd)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e3a8a?style=for-the-badge&logo=javascript&logoColor=93c5fd)
+![Python](https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&logo=python&logoColor=93c5fd)
+![Java](https://img.shields.io/badge/Java-1e3a8a?style=for-the-badge&logo=openjdk&logoColor=93c5fd)
+
+</td>
 </tr>
 <tr>
 <td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" alt="HTML5, CSS3, React, Next.js" /></td>
+<td>
+
+![HTML5](https://img.shields.io/badge/HTML5-1e3a8a?style=for-the-badge&logo=html5&logoColor=93c5fd)
+![CSS3](https://img.shields.io/badge/CSS3-1e3a8a?style=for-the-badge&logo=css3&logoColor=93c5fd)
+![React](https://img.shields.io/badge/React.js-1e3a8a?style=for-the-badge&logo=react&logoColor=93c5fd)
+![Next.js](https://img.shields.io/badge/Next.js-1e3a8a?style=for-the-badge&logo=nextdotjs&logoColor=93c5fd)
+
+</td>
 </tr>
 <tr>
 <td><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&theme=dark" alt="Node.js, Express, PHP, Laravel" /></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-1e3a8a?style=for-the-badge&logo=nodedotjs&logoColor=93c5fd)
+![Express](https://img.shields.io/badge/Express.js-1e3a8a?style=for-the-badge&logo=express&logoColor=93c5fd)
+![PHP](https://img.shields.io/badge/PHP-1e3a8a?style=for-the-badge&logo=php&logoColor=93c5fd)
+![Laravel](https://img.shields.io/badge/Laravel-1e3a8a?style=for-the-badge&logo=laravel&logoColor=93c5fd)
+
+</td>
 </tr>
 <tr>
 <td><b>Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB, MySQL" /></td>
+<td>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-1e3a8a?style=for-the-badge&logo=mongodb&logoColor=93c5fd)
+![MySQL](https://img.shields.io/badge/MySQL-1e3a8a?style=for-the-badge&logo=mysql&logoColor=93c5fd)
+
+</td>
 </tr>
 <tr>
 <td><b>Tools & Platforms</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" alt="Git, GitHub, Postman, Vercel" /> <sub><code>cPanel</code></sub></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-1e3a8a?style=for-the-badge&logo=git&logoColor=93c5fd)
+![GitHub](https://img.shields.io/badge/GitHub-1e3a8a?style=for-the-badge&logo=github&logoColor=93c5fd)
+![Postman](https://img.shields.io/badge/Postman-1e3a8a?style=for-the-badge&logo=postman&logoColor=93c5fd)
+![Vercel](https://img.shields.io/badge/Vercel-1e3a8a?style=for-the-badge&logo=vercel&logoColor=93c5fd)
+![cPanel](https://img.shields.io/badge/cPanel-1e3a8a?style=for-the-badge&logo=cpanel&logoColor=93c5fd)
+
+</td>
 </tr>
 <tr>
-<td><b>Concepts</b></td>
-<td><sub><code>Data Structures & Algorithms</code> <code>OOPs</code> <code>JWT Authentication</code> <code>API Integration</code> <code>REST APIs</code></sub></td>
+<td><b>Core CS & Concepts</b></td>
+<td><code>Data Structures & Algorithms</code> <code>OOPs</code> <code>JWT Authentication</code> <code>API Integration</code> <code>REST APIs</code></td>
 </tr>
 </table>
 
@@ -151,7 +218,7 @@ A full-stack agriculture support platform that combines machine learning models 
 <tr>
 <td width="50%" valign="top">
 
-**Certifications**
+**📜 Certifications**
 
 - Full Stack Internship Certificate · IAESTE Burundi <sub>(Jul 2025)</sub>
 - Relational Databases and SQL · Udemy <sub>(Apr 2025)</sub>
@@ -160,7 +227,7 @@ A full-stack agriculture support platform that combines machine learning models 
 </td>
 <td width="50%" valign="top">
 
-**Extra-curricular**
+**🏅 Extra-curricular**
 
 - Core Team · Rising Rajasthan Global Investment Summit, Government of Rajasthan <sub>(Dec 2024)</sub>
 - Bit By Bit Hackathon · Coginzance, IIT Roorkee <sub>(Mar 2025)</sub>
@@ -170,37 +237,64 @@ A full-stack agriculture support platform that combines machine learning models 
 </tr>
 </table>
 
-## GitHub
+## GitHub at a Glance
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VikramS04&show_icons=true&hide_border=true&bg_color=00000000&title_color=a3e635&icon_color=a3e635&text_color=e4e4e7&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VikramS04&show_icons=true&hide_border=true&bg_color=00000000&title_color=4d7c0f&icon_color=4d7c0f&text_color=27272a&count_private=true" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VikramS04&show_icons=true&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VikramS04&show_icons=true&hide_border=true&bg_color=00000000&title_color=0369a1&icon_color=4338ca&text_color=1e293b&count_private=true" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramS04&layout=compact&hide_border=true&bg_color=00000000&title_color=a3e635&text_color=e4e4e7" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramS04&layout=compact&hide_border=true&bg_color=00000000&title_color=4d7c0f&text_color=27272a" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramS04&layout=compact&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=e2e8f0&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramS04&layout=compact&hide_border=true&bg_color=00000000&title_color=0369a1&text_color=1e293b&langs_count=8" alt="Top languages" />
 </picture>
 
+<br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VikramS04&hide_border=true&background=00000000&ring=a3e635&fire=a3e635&currStreakLabel=a3e635&currStreakNum=e4e4e7&sideNums=a3e635&sideLabels=e4e4e7&dates=a1a1aa" />
-  <img height="180" src="https://streak-stats.demolab.com?user=VikramS04&hide_border=true&background=00000000&ring=4d7c0f&fire=4d7c0f&currStreakLabel=4d7c0f" alt="GitHub streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VikramS04&hide_border=true&background=00000000&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&currStreakNum=e2e8f0&sideNums=38bdf8&sideLabels=e2e8f0&dates=94a3b8" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=VikramS04&hide_border=true&background=00000000&ring=0369a1&fire=4338ca&currStreakLabel=0369a1" alt="GitHub streak" />
 </picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VikramS04&bg_color=0d1117&color=38bdf8&line=3b82f6&point=e2e8f0&area=true&area_color=3b82f6&hide_border=true&custom_title=Contribution%20Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VikramS04&bg_color=ffffff&color=0369a1&line=3b82f6&point=1e293b&area=true&area_color=3b82f6&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+</picture>
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VikramS04/VikramS04/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/VikramS04/VikramS04/output/github-snake.svg" alt="Contribution snake" width="100%" />
+  <img width="100%" src="https://raw.githubusercontent.com/VikramS04/VikramS04/output/github-snake.svg" alt="Contribution snake animation" />
 </picture>
 
 </div>
 
-## Let's connect
+## Let's Connect
 
-I'm open to SDE roles, internships and collaborations on scalable software products. The quickest way to reach me is by email or LinkedIn.
+<div align="center">
 
-<p align="center">
-  <a href="https://vikramsaini.xyz"><img src="https://img.shields.io/badge/Portfolio-a3e635?style=flat-square&labelColor=18181b&logo=googlechrome&logoColor=a3e635" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/vikramsaini04/"><img src="https://img.shields.io/badge/LinkedIn-a3e635?style=flat-square&labelColor=18181b&logo=linkedin&logoColor=a3e635" alt="LinkedIn" /></a>
-  <a href="mailto:vikramsaini7723@gmail.com"><img src="https://img.shields.io/badge/Email-a3e635?style=flat-square&labelColor=18181b&logo=gmail&logoColor=a3e635" alt="Email" /></a>
-</p>
+I'm open to SDE roles, internships and collaborations on scalable software products.
+
+<a href="https://vikramsaini.xyz"><img src="https://img.shields.io/badge/PORTFOLIO-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=93c5fd" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/vikramsaini04/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:vikramsaini7723@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+### 💬 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0f172a,100:060b18&height=120&section=footer" alt="footer" />
+
+<div align="center">
+  <sub>⚡ Built with curiosity, caffeine and a lot of <code>git commit</code> by <a href="https://github.com/VikramS04"><b>Vikram Saini</b></a></sub>
+</div>
