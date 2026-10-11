@@ -1,88 +1,220 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0c0a09,45:7c2d12,100:f59e0b&height=240&section=header&text=Vikram%20Saini&fontSize=64&fontColor=fff7ed&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Student%20%C2%B7%20Data%20Analyst&descSize=18&descColor=fed7aa&descAlignY=62&animation=fadeIn" alt="Vikram Saini" />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,100:2d1b69&height=220&section=header&text=Vikram%20Saini&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20AI%2FML%20Student&descSize=20&descAlignY=58" alt="Vikram Saini banner" />
+<a href="https://github.com/VikramS04">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F59E0B&center=true&vCenter=true&width=720&lines=%3E+npm+run+build+%E2%86%92+shipping+React+%2B+Node+apps;%3E+python+analyze.py+%E2%86%92+turning+data+into+decisions;%3E+git+commit+-m+%22leading+tech+teams%22;%3E+status%3A+open+to+internships+%26+collabs" alt="Typing intro" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-vikramsaini.xyz-2d1b69?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vikramsaini.xyz)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-saini-0b35ab207/)
+<br/>
+
+<a href="https://vikramsaini.xyz"><img src="https://img.shields.io/badge/Portfolio-vikramsaini.xyz-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/vikram-saini-0b35ab207/"><img src="https://img.shields.io/badge/LinkedIn-Vikram_Saini-fb7185?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=VikramS04&label=Profile+Views&color=f59e0b&style=flat-square&labelColor=1c1917" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/VikramS04?label=Followers&style=flat-square&color=fb7185&labelColor=1c1917&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/badge/🟠_Open_to-Internships_%26_Collaborations-f59e0b?style=flat-square&labelColor=1c1917" alt="Open to work"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:fb7185&height=2" width="100%" alt="divider"/>
 
-## 👋 About Me
+## 🔥 About Me
 
-> I'm a **full-stack web developer** and **AI/ML student** from Jaipur, Rajasthan. I build responsive React interfaces, Node.js/Express APIs and data-driven projects, and I enjoy turning ideas into products that actually ship.
+> I'm a **full-stack web developer** and **AI/ML student** from Jaipur who likes turning practical ideas into shipped products: responsive React interfaces, Node.js APIs, and data work that ends in a clear answer. Outside the editor I lead technical teams and run IT & data initiatives.
 
-| 🎓 **Education** | 🚀 **What I do** |
-|---|---|
-| 3rd-year B.Tech in Computer Science (AI & ML) at **JECRC University**, Jaipur | React frontends, Node.js + Express.js backends, REST APIs, SQL & MongoDB |
-| 🧑‍💼 **Leadership** | 📊 **Data & AI** |
-| Head of Information Technology & Data Analytics at **IAESTE India LC JECRC** | Python data analysis, statistical modeling and machine learning foundations |
+```yaml
+# vikram.yaml
+name:        Vikram Saini
+based_in:    Jaipur, Rajasthan, India
+studying:    B.Tech CSE (AI & ML), 3rd year @ JECRC University
+building:    React + Node.js products, REST APIs, data-analysis projects
+leading:     Head of IT & Data Analytics @ IAESTE India LC JECRC
+              Head of Technical Dept @ Helping Department
+exploring:   AI/ML foundations, database design, scalable web apps
+open_to:     internships · collaborations · technical opportunities
+```
 
----
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## ⚡ Tech Stack
+🛠️ **Full-stack craft**<br/>React + Tailwind frontends, Express.js backends, MySQL & MongoDB
 
-| Category | Tools |
-|---|---|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Data / AI-ML** | ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+📊 **Data-driven**<br/>Python analysis, simulation and statistical modeling
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🛠️ Featured Projects
+🧭 **Team lead**<br/>Leading developers and departments, from web projects to international exchange work
 
-| Project | Description |
-|---|---|
-| 🌾 **[Krishi AI](https://vikramsaini.xyz/#projects)** | _Add a one-line description + repo link_ |
-| 📦 **[Track-it](https://vikramsaini.xyz/#projects)** | _Add a one-line description + repo link_ |
-| 🏭 **[ManuSight](https://vikramsaini.xyz/#projects)** | _Add a one-line description + repo link_ |
-| 🛡️ **[Safelance](https://vikramsaini.xyz/#projects)** | _Add a one-line description + repo link_ |
-| 📈 **Data Analysis Projects** | Stock risk modeling, IPL data analysis, A/B testing, hypothesis testing and survival analysis |
+🎬 **Creative side**<br/>Video editing and event tech coordination
 
-More on the [portfolio](https://vikramsaini.xyz/#projects).
+</td>
+</tr>
+</table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:fb7185&height=2" width="100%" alt="divider"/>
 
 ## 💼 Experience
 
-- 📊 **Data Analysis Intern**, Samatrix Consulting Pvt. Ltd.: Python-based analysis and modeling projects
-- 🌍 **Full-Stack Developer (Remote)**, IAESTE Burundi: development of digital infrastructure and data systems
-- 🧭 **Head of Information Technology & Data Analytics**, IAESTE India LC JECRC: technical leadership
+<table>
+<tr>
+<td width="24%"><b>🏢 Organisation</b></td>
+<td width="22%"><b>🎯 Role</b></td>
+<td width="16%"><b>📅 Period</b></td>
+<td width="38%"><b>⚡ What I did</b></td>
+</tr>
+<tr>
+<td><b>Grids Apps LLC</b><br/><sub>via IAESTE Palestine · Remote</sub></td>
+<td>Project Intern<br/><sub><code>Full-stack</code></sub></td>
+<td><code>Jun – Jul 2026</code></td>
+<td>Full-stack project work with an international team</td>
+</tr>
+<tr>
+<td><b>Reda's LLC</b><br/><sub>SaaS company</sub></td>
+<td>Intern</td>
+<td><code>—</code></td>
+<td>Building an automated healthcare / delivery-management system, including dental appointments and booking</td>
+</tr>
+<tr>
+<td><b>IAESTE Burundi</b><br/><sub>Remote</sub></td>
+<td>Full-Stack Intern</td>
+<td><code>Jun – Jul 2025</code></td>
+<td>Developed and maintained the official website using React.js, Node.js, Express.js and REST APIs</td>
+</tr>
+<tr>
+<td><b>Samatrix Consulting</b><br/><sub>Remote</sub></td>
+<td>Data Analysis & Simulation Intern</td>
+<td><code>Jun – Jul 2025</code></td>
+<td>Value at Risk, A/B testing, queueing, clinical survival analysis and IPL trends in Python</td>
+</tr>
+<tr>
+<td><b>Active Roma</b></td>
+<td>Data Engineering & Tech Intern</td>
+<td><code>—</code></td>
+<td>Data-engineering and full-tech internship work</td>
+</tr>
+</table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:fb7185&height=2" width="100%" alt="divider"/>
+
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🌾 **[Krishi AI](https://vikramsaini.xyz/#projects)** | _One-line description_ | `Add stack` |
+| 📦 **[Track-it](https://vikramsaini.xyz/#projects)** | _One-line description_ | `Add stack` |
+| 🏭 **[ManuSight](https://vikramsaini.xyz/#projects)** | _One-line description_ | `Add stack` |
+| 🛡️ **[Safelance](https://vikramsaini.xyz/#projects)** | _One-line description_ | `Add stack` |
+| 🌍 **IAESTE Burundi Website** | Official site for IAESTE Burundi, built and maintained remotely | `React` `Node.js` `Express` `REST` |
+| 🏥 **Healthcare & Delivery System** | Automated appointment-booking and delivery management for a SaaS client | `Full-stack` |
+
+### 📈 Data Analysis Work
+
+| Study | Focus |
+|---|---|
+| 💹 **Stock risk modeling** | Value at Risk with live market data |
+| 🧪 **A/B & hypothesis testing** | Experiment design and statistical significance |
+| 🏏 **IPL data analysis** | Trends and patterns across seasons |
+| 🏥 **Clinical survival analysis** | Time-to-event modeling |
+| 🧮 **Queueing simulation** | Modeling waiting-line systems |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:fb7185&height=2" width="100%" alt="divider"/>
+
+## 👑 Leadership & Recognition
+
+| | Role / Achievement | Details |
+|:-:|---|---|
+| 🧑‍💼 | **Head of IT & Data Analytics**, IAESTE India LC JECRC | Leadership, initiatives, projects, international exchange programs, video editing and coordination |
+| 🛠️ | **Head of Technical Department**, Helping Department | Leading developers on two projects that help students reach technical internships |
+| 🎯 | **Technical Coordinator** | Latches · Rizom · Tech Effects |
+| 🏅 | **Top-5 Finalist**, Cogneton (IITB) | Competition / initiative associated with IIT Bombay |
+| 🌐 | **Global Innovation Summit** | Participated in the summit inaugurated by the Chief Minister |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:fb7185&height=2" width="100%" alt="divider"/>
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+**`⸻ FRONTEND ⸻`**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css&theme=dark" alt="Frontend" />
+
+**`⸻ BACKEND & DATABASES ⸻`**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" alt="Backend" />
+
+**`⸻ DATA & AI/ML ⸻`**
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+<br/>
+<img src="https://img.shields.io/badge/Pandas-1c1917?style=for-the-badge&logo=pandas&logoColor=f59e0b" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-1c1917?style=for-the-badge&logo=numpy&logoColor=f59e0b" alt="NumPy"/>
+<img src="https://img.shields.io/badge/SciPy-1c1917?style=for-the-badge&logo=scipy&logoColor=f59e0b" alt="SciPy"/>
+<img src="https://img.shields.io/badge/Statsmodels-1c1917?style=for-the-badge&logoColor=f59e0b" alt="Statsmodels"/>
+<img src="https://img.shields.io/badge/Matplotlib-1c1917?style=for-the-badge&logoColor=f59e0b" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-1c1917?style=for-the-badge&logoColor=f59e0b" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Lifelines-1c1917?style=for-the-badge&logoColor=f59e0b" alt="Lifelines"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:fb7185&height=2" width="100%" alt="divider"/>
 
 ## 📊 GitHub at a Glance
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VikramS04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramS04&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VikramS04&show_icons=true&hide_border=true&bg_color=00000000&title_color=f59e0b&icon_color=fb7185&text_color=e7e5e4&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VikramS04&show_icons=true&hide_border=true&bg_color=00000000&title_color=b45309&icon_color=e11d48&text_color=292524&count_private=true" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramS04&layout=compact&hide_border=true&bg_color=00000000&title_color=f59e0b&text_color=e7e5e4" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramS04&layout=compact&hide_border=true&bg_color=00000000&title_color=b45309&text_color=292524" alt="Top languages" />
+</picture>
 
-<img src="https://streak-stats.demolab.com/?user=VikramS04&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VikramS04&hide_border=true&background=00000000&ring=f59e0b&fire=fb7185&currStreakLabel=f59e0b&currStreakNum=e7e5e4&sideNums=fb7185&sideLabels=e7e5e4&dates=a8a29e" />
+  <img height="180" src="https://streak-stats.demolab.com?user=VikramS04&hide_border=true&background=00000000&ring=b45309&fire=e11d48&currStreakLabel=b45309" alt="GitHub streak" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VikramS04/VikramS04/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VikramS04/VikramS04/output/github-snake.svg" alt="Contribution snake" width="100%" />
+</picture>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:fb7185&height=2" width="100%" alt="divider"/>
 
-## 🌐 Let's Connect & Build Together
-
-I'm open to internships, collaborations and technical opportunities.
+## 🌐 Let's Build Something Together
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2d1b69?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vikramsaini.xyz)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-saini-0b35ab207/)
-<!-- Add Gmail: [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL) -->
+I'm open to internships, collaborations and technical opportunities.
 
-### 💬 Random Dev Quote
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=black)](https://vikramsaini.xyz)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-fb7185?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-saini-0b35ab207/)
+<!-- [![Email](https://img.shields.io/badge/EMAIL-7c2d12?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL) -->
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,100:07111f&height=120&section=footer" alt="footer" />
+### 💬 Dev Quote of the Moment
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=fdba74&authorColor=fb7185" alt="Random dev quote" />
+
+<br/>
+
+<sub>🔥 Built with curiosity, coffee and a lot of <code>git commit</code></sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:7c2d12,100:0c0a09&height=120&section=footer" alt="footer" />
